@@ -49,7 +49,7 @@ const ClinicComponent = ({ setWelcome }) => {
         <div className="row">
           <div>
             <div className="d-flex justify-content-between p-4">
-              <h3>Book your appointments here</h3>
+              <h3>Book your appointments by best</h3>
               <button
                 className="btn btn-info btn-sm animate__animated animate__tada"
                 onClick={() => {
