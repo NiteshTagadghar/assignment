@@ -7,7 +7,7 @@ const History=({history,setShowHistory})=>{
              className="btn btn-info btn-sm"
              onClick={()=>{
                 setShowHistory(false)
-                }}>GO BACK</button></div>
+                }}>pre-page</button></div>
        { history.map((value,index)=>{
             return(
                 <div key={index} className="col-md-4">
