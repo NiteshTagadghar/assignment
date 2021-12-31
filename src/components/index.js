@@ -100,7 +100,7 @@ const ClinicComponent = ({ setWelcome }) => {
                         }
                       }}
                     >
-                      Book Appointment for test
+                      Book Appointment from best
                     </a>
                   </div>
                 </div>
